@@ -142,7 +142,28 @@ Criterios más comunes para alertas KPIs
 
 - Intervalos (Semáforos)
 
-- Método de los 4 umbrales
+- Método de los 4 umbrales 
+
+- No dejes de visualizar
+
+# Dashboard
+Son una representación visual de la información más importante que se necesita para lograr uno o más objetivos y que ha sido consolidada en una sola pantalla para que sea monitoreada en un vistazo.
+
+Permite a los usuarios:
+
+- Evaluar que tan bien la organización está logrando sus objetivos.
+
+- Identificar causas de bajo de desempeño.
+
+- Identificar formas de mejorar el desempeño en el futuro.
+
+Ayudarte a responder:
+
+- ¿Estamos logrando nuestras metas?
+
+- ¿Vamos mejor o peor que antes?
+
+- ¿Cómo podemos mejorar en el futuro?
 	
  
 # Modelo semantico en Power BI
