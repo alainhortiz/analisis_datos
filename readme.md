@@ -1,4 +1,4 @@
-# Conceptos para el Análisis de datos
+# Conceptos para un correcto Análisis de datos
 
 # Métrica:
 Es una medición de datos única, específica y cruda.
@@ -133,6 +133,16 @@ Evalua lo que otros hacen bien. Es importante conocer si está entregando valor.
 # Automatizar alertas con KPIs
 Excel lo tiene en formato condicional. Investigar si Power BI lo tiene y como se implementa.
 Criterios más comunes para alertas KPIs
+
+- Comparativas con períodos anteriores donde calculamos si esta por debajo o por encima y en que %.
+
+- Marcadores de valor único.
+
+- % de desviación del objetivo.
+
+- Intervalos (Semáforos)
+
+- Método de los 4 umbrales
 	
  
 # Modelo semantico en Power BI
